@@ -1,0 +1,24 @@
+Privacy Policy
+
+Effective Date: [26/10/2023]
+
+1. Introduction
+
+This Privacy Policy outlines how we handle user information in our mobile application. We want to reassure you that your privacy is of utmost importance to us.
+
+2. Information Collection
+
+We do not collect, store, or access any personal or user information from your use of the App. No personal data is gathered or used in any way.
+
+3. Third-Party Services
+
+The App does not use any third-party services, APIs, or integrations. All functionality is contained within the App itself.
+
+4. Changes to This Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. Any significant changes will be notified within the App.
+
+5. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at mosarofharun1974@gmail.com
+
